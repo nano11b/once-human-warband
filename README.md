@@ -6,9 +6,10 @@ There is **no public personal-stats API** for Once Human, so this app does **not
 
 ## Live demo (GitHub Pages)
 
-**https://nano11b.github.io/once-human-warband/**
+- **https://blog.nano11bravo.com/once-human-warband/** (user Pages custom domain)
+- Also via: **https://nano11b.github.io/once-human-warband/** (redirects to the custom domain)
 
-> Pages is served from the `main` branch root. If the link 404s right after the first push, wait a minute for Pages to finish building.
+Source: `main` branch, site root (`/`).
 
 ## Features (v1)
 
